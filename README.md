@@ -1,12 +1,6 @@
-# audio_presentation
 <!DOCTYPE html>
 <html> 
-<head>
-  <script>
-    var player = document.getElementById("player");
-    player.play();
-  </script>
-</head>
+
 <body>
 
 
